@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Weather
+
+  Created by Alvin on 11/10/2021.
+  
+*/
+
+"CFBundleDisplayName" = "My Aussie Weather";
+"NSLocationWhenInUseUsageDescription" = "This app uses your location for retrieving weather information.";

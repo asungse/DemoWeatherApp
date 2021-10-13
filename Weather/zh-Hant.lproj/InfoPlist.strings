@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Weather
+
+  Created by Alvin on 11/10/2021.
+  
+*/
+
+"CFBundleDisplayName" = "我的香港天氣";
+"NSLocationWhenInUseUsageDescription" = "本程式將使用你的地理位置取得天氣資訊";

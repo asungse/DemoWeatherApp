@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Alvin on 11/10/2021.
+  
+*/
+
+"text.ok" = "OK";
+"text.delete" = "Delete";
+"text.delete.all" = "Delete All";
+"text.weather" = "Weather";
+"text.searchbar.placeholder" = "Search by city name or zip code";
+"text.api.fail.title" = "Cannot retrieve weather information";
+"text.need.location.authorization.title" = "Access to location service is needed for using GPS search";
+"text.need.location.authorization.message" = "You may go to Settings to enable location service for this app.";
+
+"text.weather.description" = "Weather descricption: ";
+"text.current.temperature" = "Current temperature: ";
+"text.feels.like.temperature" = "Feels like temperature: ";
+"text.temperature.range" = "Temperature range: ";
+"text.minimum.temperature" = "Minimum temperature: ";
+"text.maximum.temperature" = "Maximum temperature: ";
+"text.atmospheric.pressure" = "Atmospheric pressure: ";
+"text.humidity" = "Humidity: ";
+"text.atmospheric.pressure.sea.level" = "Atmospheric pressure on the sea level: ";
+"text.atmospheric.preesure.ground.level" = "Atmospheric pressure on the ground level: ";
+"text.wind.speed" = "Wind speed: ";
+"text.wind.direction" = "Wind direction: ";
+"text.wind.gust" = "Wind gust: ";
+"text.cloudiness" = "Cloudiness: ";
+"text.rain.1h" = "Rain volume for the last 1 hour: ";
+"text.rain.3h" = "Rain volume for the last 3 hour: ";
+"text.snow.1h" = "Snow volume for the last 1 hour: ";
+"text.snow.3h" = "Snow volume for the last 3 hour: ";
+"text.sunrise.time" = "Sunrise time (UTC): ";
+"text.sunset.time" = "Sunset time (UTC): ";
+"text.data.calc.time" = "Time (UTC) of data calculation: ";

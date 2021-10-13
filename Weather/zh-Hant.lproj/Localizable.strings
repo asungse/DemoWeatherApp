@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Alvin on 11/10/2021.
+  
+*/
+
+"text.ok" = "確定";
+"text.delete" = "刪除";
+"text.delete.all" = "全部刪除";
+"text.weather" = "天氣";
+"text.searchbar.placeholder" = "以城市名或郵遞區號搜尋";
+"text.api.fail.title" = "無法取得天氣資料";
+"text.need.location.authorization.title" = "以目前位置搜尋雖要取用定位服務";
+"text.need.location.authorization.message" = "請到「設定」更新定位服務的取用權限";
+
+"text.weather.description" = "天氣狀況: ";
+"text.current.temperature" = "現時溫度: ";
+"text.feels.like.temperature" = "體感溫度: ";
+"text.temperature.range" = "溫度差距: ";
+"text.minimum.temperature" = "最低溫度: ";
+"text.maximum.temperature" = "最高溫度: ";
+"text.atmospheric.pressure" = "氣壓: ";
+"text.humidity" = "濕度: ";
+"text.atmospheric.pressure.sea.level" = "海平面氣壓: ";
+"text.atmospheric.preesure.ground.level" = "地上氣壓: ";
+"text.wind.speed" = "風速: ";
+"text.wind.direction" = "風向: ";
+"text.wind.gust" = "陣風: ";
+"text.cloudiness" = "混濁度: ";
+"text.rain.1h" = "過去一小時雨量: ";
+"text.rain.3h" = "過去三小時雨量: ";
+"text.snow.1h" = "過去一小時雪量: ";
+"text.snow.3h" = "過去三小時雪量: ";
+"text.sunrise.time" = "日出時間 (UTC): ";
+"text.sunset.time" = "日落時間 (UTC): ";
+"text.data.calc.time" = "資料計算時間 (UTC): ";

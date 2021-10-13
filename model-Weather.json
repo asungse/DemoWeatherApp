@@ -1,0 +1,60 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:2348210873696258048",
+      "lastPropertyId": "10:1951387303465048576",
+      "name": "City",
+      "properties": [
+        {
+          "flags": 2056,
+          "id": "3:3002826613315017984",
+          "indexId": "1:7950533727145164544",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "4:7377022410831183360",
+          "name": "inSearchHistory",
+          "type": 1
+        },
+        {
+          "id": "5:3813529104608206848",
+          "name": "lastSearchTime",
+          "type": 10
+        },
+        {
+          "flags": 1,
+          "id": "6:4314517729417287424",
+          "name": "entityId",
+          "type": 6
+        },
+        {
+          "id": "8:1561043122139846400",
+          "name": "id",
+          "type": 6
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:2348210873696258048",
+  "lastIndexId": "1:7950533727145164544",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 4,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    3017807354386977024,
+    3022583131490178560,
+    2574234209374561536,
+    9130726317503284224,
+    1951387303465048576
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
