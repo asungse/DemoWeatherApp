@@ -16,7 +16,7 @@ Step 3)	Click on the city name of the list shown to search
 	Click “Search” on the bottom-right corner on the keyboard to search (if you prefer entering full city name)
 
 Step 4)	A pop-up screen with the name of city and the current weather information will be showed.
-	The pop-up page can be dismissed by swapping it down to the bottom.
+	The pop-up page can be dismissed by swiping it down to the bottom.
 	(If the current weather information cannot be obtained, an error message will be showed instead.)
 
 Scenario 1.2 - Search by zip code:
@@ -28,7 +28,7 @@ Step 2)	Enter the zip code to search
 Step 3)	Click “Search” on the bottom-right corner on the keyboard to search
 
 Step 4)	A pop-up screen with the name of city and the current weather information will be showed.
-	The pop-up page can be dismissed by swapping it down to the bottom.
+	The pop-up page can be dismissed by swiping it down to the bottom.
 	(If the current weather information cannot be obtained, an error message will be showed instead.)
 
 
@@ -40,7 +40,7 @@ Step 2)	Click “Allow While Using App” or “Allow Once” to authorise locat
 	(If you choose “Allow Once”, it will be showed again the next time you launch the app and use the feature.)
 
 Step 3)	A pop-up screen with the name of city and the current weather information will be showed.
-	The pop-up page can be dismissed by swapping it down to the bottom.
+	The pop-up page can be dismissed by swiping it down to the bottom.
 	(If the current weather information cannot be obtained, an error message will be showed instead.)
 
 
@@ -55,7 +55,7 @@ Step 1)	Click on the city name on the search history list showed on the main pag
 	(The list will be sorted in descending order of previous searches, i.e. the latest search will be on the top.)
 
 Step 2)	A pop-up screen with the name of city and the current weather information will be showed.
-	The pop-up page can be dismissed by swapping it down to the bottom.
+	The pop-up page can be dismissed by swiping it down to the bottom.
 	(If the current weather information cannot be obtained, an error message will be showed instead.)
 
 
